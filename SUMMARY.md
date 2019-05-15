@@ -2,8 +2,8 @@
 
 * [About](README.md)
 
-## TCP
+## 简单TCP
 
-* [简单TCPClient](tcp/jian-dan-tcpclient.md)
-* [一个简单的TCPServer](tcp/yi-ge-jian-dan-de-tcpserver.md)
+* [简单TCPClient](tcp/tcp.md)
+* [简单TCPServer](tcp/tcp-1.md)
 

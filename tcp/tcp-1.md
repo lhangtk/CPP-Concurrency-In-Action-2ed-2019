@@ -1,4 +1,4 @@
-# 一个简单的TCPServer
+# 简单TCPServer
 
 ```java
 package com.vflynote.recorder;
